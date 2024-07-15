@@ -1,5 +1,5 @@
 # Frontend Javascript SDK
-
+https://github.com/haticecan37/pi-platform-docs.git
 The JS SDK is the frontend SDK, designed to be used in your HTML pages or Single-Page Apps, served in the Pi Browser.
 
 In order to enable the SDK to function correctly, you need to declare your apps on the Developer Portal (open
